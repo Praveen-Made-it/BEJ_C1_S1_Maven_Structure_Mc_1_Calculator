@@ -8,4 +8,8 @@
 package com.niit.jdp.calculator;
 
 public class Calculator {
+    //method for addition of two numbers
+    public int addition(int a, int b) {
+        return a + b;
+    }
 }
