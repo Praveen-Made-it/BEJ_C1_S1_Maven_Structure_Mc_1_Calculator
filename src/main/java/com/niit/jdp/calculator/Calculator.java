@@ -21,6 +21,10 @@ public class Calculator {
     //method for multiplication of two numbers
     public int multiplication(int a, int b) {
         return a * b;
-
-
     }
+
+    //method for division of two numbers
+    public double division(int a, int b) {
+        return a / b;
+    }
+}
