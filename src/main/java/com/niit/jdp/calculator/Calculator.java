@@ -17,4 +17,10 @@ public class Calculator {
     public int subtraction(int a, int b) {
         return a - b;
     }
-}
+
+    //method for multiplication of two numbers
+    public int multiplication(int a, int b) {
+        return a * b;
+
+
+    }
