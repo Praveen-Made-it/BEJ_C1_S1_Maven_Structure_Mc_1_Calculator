@@ -12,4 +12,9 @@ public class Calculator {
     public int addition(int a, int b) {
         return a + b;
     }
+
+    //method for subtraction of two numbers
+    public int subtraction(int a, int b) {
+        return a - b;
+    }
 }
